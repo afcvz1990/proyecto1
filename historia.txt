@@ -1,0 +1,3 @@
+este es el nuevo archivo de historia para la prueba
+
+curiosiando con git
